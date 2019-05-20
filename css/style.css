@@ -2352,6 +2352,13 @@ span.email-notes {
 
 .nivo-prevNav, .nivo-nextNav {display:none !important;}
 
+@media (max-width: 991px) and (min-width: 768px)
+.layer-1-2 h1 {
+    font-size: 20px !important;
+    line-height: 38px;
+    padding: 0px 30px;
+}
+
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/
